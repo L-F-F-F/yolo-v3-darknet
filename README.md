@@ -11,8 +11,10 @@
 
 文件置于 `darknet-master\build\darknet\x64` 启动命令行
 
-* `./darknet.exe detector test data/obj.data yolo-obj.cfg backup/yolo-obj_32000_4_480_small.weights tryTest/14-9.jpg` 测试图片样例
+* `./darknet.exe detector test data/obj.data yolo-obj.cfg backup/yolo-obj_32000_4_480_small.weights tryTest/14-9.jpg` 
 
-<center> ![](https://i.imgur.com/JGmdQp5.png) </center>
-<center> ![](https://i.imgur.com/Wl4snx7.png) </center>
+测试图片样例
+
+![](https://i.imgur.com/JGmdQp5.png)
+![](https://i.imgur.com/Wl4snx7.png)
 * `./darknet.exe detector demo data/obj.data yolo-obj.cfg backup/yolo-obj_32000_4_480_small.weights tryTest/3499-man.mp4` 测试视频样例
