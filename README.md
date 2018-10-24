@@ -1,5 +1,5 @@
 ## yolo-v3-Window版
-军事爱好者，源码摘自AlexeyAB大神的[yolo-v3](https://github.com/AlexeyAB/darknet)，Windows下的配置教程非常详细。这是在AlexeyAB大神的yolo-v3编译好，能运行基础上的样例。
+军事爱好者，源码摘自AlexeyAB的[yolo-v3](https://github.com/AlexeyAB/darknet)，Windows下的配置教程非常详细。这是在AlexeyAB大神的yolo-v3编译好，能运行基础上的样例。
 
 测试样例，无代码。用于检测 Google Earth 中的飞机型号目标，训练图片均为 768*768，检测用图片最好也使用方形图片，训练集图片采集时放缩比例zoom=20，对应的 Google Earth 视线高度小于五百米，不宜过高。
 
